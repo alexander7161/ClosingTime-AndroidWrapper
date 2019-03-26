@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/0d02afb4cd4d27193416607c78a16fa9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/4e1b3f7268b234cf178e3eb39bf01ac5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cc7472c17c22dc9e20317c7331c57445/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfd485af6d8a455b2025aac05b746975/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52a33f07aec2de8d27ee1b4f0d2900f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3dec2fdd918723b8e4a51bd06278cde7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/123c58a47669007a61a41b6a1f4edb0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/a3561ae6b50e6d954f09cc0e3ed1e51f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fbe6bdda2e7a6a1c9fc0f4c23321aebd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/8329c5ccb574a6898322475f385f51a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1e64594f5690929d110c2a5f36b85c3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7c12dc052ff0944c4b124178a2fdc589/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7b5238a6916878772cba024c9c8881d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e4120c388d4b65ec913d53ff28de3ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/88174b802e493f00cf845172fd3f1d01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cbe11e16b976aeca0cd06658c9e99e7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f81b536c195f0f9ab2340dc9a4b7d1c1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b7a408b8bc857d2d9053f5feb13972aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ea49a66d85ec38b83f754e9e3e1031a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7db9d89f602e140b34d3604ee6fbe853/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bf500817e12e9479db5fde5ae0bdc64b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/df3a57e6d48cbf3414e6538254f6b564/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fad736a17fc7856f9e879428255df9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e26d8275c61aae890e1af56506002257/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20e5eeff6fb14cb15831c63bbe24f9fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c65853d4053b5aacba8d0405c1ec6517/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:5-191
+	android:largeScreens
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:49-76
+	android:smallScreens
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:132-159
+	android:normalScreens
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:77-105
+	android:xlargeScreens
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:160-188
+	android:resizeable
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:106-131
+	android:anyDensity
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:5:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.location.gps
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:9:19-63
+application
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/4e1b3f7268b234cf178e3eb39bf01ac5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/4e1b3f7268b234cf178e3eb39bf01ac5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f81b536c195f0f9ab2340dc9a4b7d1c1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f81b536c195f0f9ab2340dc9a4b7d1c1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:15:9-43
+activity#closingtime.me.pwa.MainActivity
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/0d02afb4cd4d27193416607c78a16fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/0d02afb4cd4d27193416607c78a16fa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/4e1b3f7268b234cf178e3eb39bf01ac5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/4e1b3f7268b234cf178e3eb39bf01ac5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cc7472c17c22dc9e20317c7331c57445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cc7472c17c22dc9e20317c7331c57445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfd485af6d8a455b2025aac05b746975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfd485af6d8a455b2025aac05b746975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52a33f07aec2de8d27ee1b4f0d2900f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/52a33f07aec2de8d27ee1b4f0d2900f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3dec2fdd918723b8e4a51bd06278cde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/3dec2fdd918723b8e4a51bd06278cde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/123c58a47669007a61a41b6a1f4edb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/123c58a47669007a61a41b6a1f4edb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/a3561ae6b50e6d954f09cc0e3ed1e51f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/a3561ae6b50e6d954f09cc0e3ed1e51f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fbe6bdda2e7a6a1c9fc0f4c23321aebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fbe6bdda2e7a6a1c9fc0f4c23321aebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/8329c5ccb574a6898322475f385f51a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/8329c5ccb574a6898322475f385f51a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1e64594f5690929d110c2a5f36b85c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1e64594f5690929d110c2a5f36b85c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7c12dc052ff0944c4b124178a2fdc589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7c12dc052ff0944c4b124178a2fdc589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7b5238a6916878772cba024c9c8881d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/7b5238a6916878772cba024c9c8881d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e4120c388d4b65ec913d53ff28de3ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7e4120c388d4b65ec913d53ff28de3ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/88174b802e493f00cf845172fd3f1d01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/88174b802e493f00cf845172fd3f1d01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/70475d12d2f94dc3f383b9bc378bac44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cbe11e16b976aeca0cd06658c9e99e7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cbe11e16b976aeca0cd06658c9e99e7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f81b536c195f0f9ab2340dc9a4b7d1c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f81b536c195f0f9ab2340dc9a4b7d1c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b7a408b8bc857d2d9053f5feb13972aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b7a408b8bc857d2d9053f5feb13972aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ea49a66d85ec38b83f754e9e3e1031a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/ea49a66d85ec38b83f754e9e3e1031a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7db9d89f602e140b34d3604ee6fbe853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7db9d89f602e140b34d3604ee6fbe853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bf500817e12e9479db5fde5ae0bdc64b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bf500817e12e9479db5fde5ae0bdc64b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/df3a57e6d48cbf3414e6538254f6b564/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/df3a57e6d48cbf3414e6538254f6b564/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fad736a17fc7856f9e879428255df9ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/fad736a17fc7856f9e879428255df9ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e26d8275c61aae890e1af56506002257/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e26d8275c61aae890e1af56506002257/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20e5eeff6fb14cb15831c63bbe24f9fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/20e5eeff6fb14cb15831c63bbe24f9fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c65853d4053b5aacba8d0405c1ec6517/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c65853d4053b5aacba8d0405c1ec6517/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:3.0.0] /Users/alexanderdavis/.gradle/caches/transforms-1/files-1.1/easypermissions-3.0.0.aar/a4264978dac76dec96824e0d0a99ad6f/AndroidManifest.xml:13:13-86

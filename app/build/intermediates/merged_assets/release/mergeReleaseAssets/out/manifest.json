@@ -1,0 +1,21 @@
+{
+    "short_name": "CloseTime",
+    "name": "ClosingTime",
+    "icons": [
+        {
+            "src": "./images/logo-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./images/logo-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://closeti.me/index.html",
+    "background_color": "#343a40",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#343a40"
+}

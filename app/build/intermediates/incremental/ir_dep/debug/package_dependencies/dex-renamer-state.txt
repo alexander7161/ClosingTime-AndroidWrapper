@@ -1,0 +1,4 @@
+#Tue Mar 26 17:08:29 GMT 2019
+base.0=/Users/alexanderdavis/Documents/Projects/closingtime/projects/Polyfills/android/source/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
